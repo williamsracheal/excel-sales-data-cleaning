@@ -80,7 +80,5 @@ The cleaned dataset can be used for further sales analysis, including:
 
 ## Author
 Racheal Williams
-Data Analyst | Excel | SQL | Python | Data Storytelling
-**Racheal Williams**
 
-Aspiring Data Analyst | Excel | SQL | Python | Data Storytelling
+Data Analyst | Excel | SQL | Python | Data Storytelling
